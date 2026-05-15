@@ -26,6 +26,22 @@
 
 ---
 
+# ⚠️ Unmaintained & Legal Notice / 停止维护与合规声明
+
+> [!CAUTION]
+> **This project is NO LONGER MAINTAINED. Use at your own risk.**
+> **本项目已停止维护，不再更新，请自行承担使用风险。**
+
+### ⚖️ Compliance Reminder / 合规提醒
+*   **Legal Use Only:** Unauthorized remote access is strictly prohibited. Comply with all local laws.
+    **依法合规：** 严禁利用本远程控制工具从事任何非法入侵或非法控制他人系统的行为。
+*   **Explicit Consent:** Ensure you have explicit authorization from the device owner before use.
+    **获得授权：** 在远程操作任何设备前，必须确保已获得设备所有者的明确授权。
+*   **Security Risks:** No security patches will be issued. Continued use may expose you to vulnerabilities.
+    **安全风险：** 项目不再修复漏洞，在生产环境或真实网络中使用请格外注意安全。
+
+---
+
 > [!WARNING]
 > **重要法律声明**
 >
